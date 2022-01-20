@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Eug/AndroidStudioProjects/CurrencyExchange/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Eug/AndroidStudioProjects/CurrencyExchange/app/src/main/res/drawable/ic_baseline_arrow_drop_up_24.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Eug/AndroidStudioProjects/CurrencyExchange/app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Eug/AndroidStudioProjects/CurrencyExchange/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Eug/AndroidStudioProjects/CurrencyExchange/app/src/main/res/layout/activity_main.xml" value="0.322884012539185" />
+        <entry key="..\:/Users/Eug/AndroidStudioProjects/CurrencyExchange/app/src/main/res/layout/currency_item.xml" value="0.33" />
+        <entry key="..\:/Users/Eug/AndroidStudioProjects/CurrencyExchange/app/src/main/res/layout/fragment_currency.xml" value="0.33229166666666665" />
+        <entry key="..\:/Users/Eug/AndroidStudioProjects/CurrencyExchange/app/src/main/res/layout/fragment_currency_list.xml" value="0.25" />
+        <entry key="..\:/Users/Eug/AndroidStudioProjects/CurrencyExchange/app/src/main/res/layout/fragment_currency_pairs.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/Eug/AndroidStudioProjects/CurrencyExchange/app/src/main/res/layout/fragment_item_list.xml" value="0.33229166666666665" />
+        <entry key="..\:/Users/Eug/AndroidStudioProjects/CurrencyExchange/app/src/main/res/layout/pair_item.xml" value="0.5" />
+        <entry key="..\:/Users/Eug/AndroidStudioProjects/CurrencyExchange/app/src/main/res/menu/toolbar_menu.xml" value="0.33229166666666665" />
+        <entry key="..\:/Users/Eug/AndroidStudioProjects/CurrencyExchange/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.35260416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

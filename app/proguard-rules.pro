@@ -1,0 +1,3 @@
+-obfuscationdictionary ob_dictionary.txt
+-classobfuscationdictionary ob_dictionary.txt
+-packageobfuscationdictionary ob_dictionary.txt
